@@ -1,0 +1,15 @@
+server:
+  port: 8081
+  
+config:
+  property:
+    value: 132
+    
+studentCapacity : 100
+schoolName : KinderGarden
+
+complex:
+  property:
+    studentCapacity : 500
+    schoolName : HighSchool
+      
